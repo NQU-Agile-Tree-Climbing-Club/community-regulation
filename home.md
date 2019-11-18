@@ -15,7 +15,8 @@
 - [Agile-Tree-Climbing-Manual](https://github.com/Agile-Tree-Climbing-Team/Agile-Tree-Climbing-Manual)
 
 不會Git，不想學習，要回饋:  
-- [Telegram](https://t.me/AgileTreeClimbingTeam)
+- [Telegram頻道](https://t.me/AgileTreeClimbingTeam)
+- [Telegram討論群組](https://t.me/joinchat/HX01ZkYrYzxfuXRNrVsOVg)
 
 不會Git，不想學習，要參與:  
 - [在GitHub提出新的「議題」]()  

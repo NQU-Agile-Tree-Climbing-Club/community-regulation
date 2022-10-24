@@ -5,5 +5,6 @@
   - @steve0230 林建同
   - @nngmythb 沈柏宏
   - @Uesugi-Summer-Sea @tree2ocean 上杉夏海顧問有限公司
+  - @agile-tree-climbing-club/nquatcc 國立金門大學敏捷攀樹社
 
 以及感謝社群的幫助與參與。
